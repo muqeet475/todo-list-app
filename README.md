@@ -31,6 +31,8 @@ This To-Do List application allows users to manage their daily tasks effectively
    ```bash
    git clone https://github.com/muqeet475/todo-list-app.git
 
+![Screenshot 2024-07-10 135835](https://github.com/muqeet475/todo-list-app/assets/174495564/3841732d-9a2f-4b72-921e-63d076690b7d)
 
-   (https://github.com/muqeet475/todo-list-app/blob/main/Screenshot%202024-07-10%20135835.png?raw=true)
+
+   
 
